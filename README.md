@@ -25,9 +25,9 @@ Progess Milestones [In-Progress]
 -->
   <h3>Progress Milestones [20% Completed]</h3>
   <ul>
-      <li style="text-decoration: line-through;">[Complete] Introduction</li>
-      <li style="text-decoration: line-through;">[Complete] Setting up React Native Expo</li>
-      <li style="text-decoration: line-through;">[Complete] Auth System With Firebase and React Native</li>
+      <li style="text-decoration: line-through;">✔️ Introduction</li>
+      <li style="text-decoration: line-through;">✔️ Setting up React Native Expo</li>
+      <li style="text-decoration: line-through;">✔️ Auth System With Firebase and React Native</li>
       <li>Save Data Using Firebase And Redux</li>
       <li>Handling Navigation on React Native</li>
       <li>Using Camera And Image Gallery With React Native</li>
