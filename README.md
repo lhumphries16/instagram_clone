@@ -23,32 +23,24 @@ Progess Milestones [In-Progress]
   (5:14:00) Like System Using Firestore
   (5:47:25) Redesign Release
 -->
-<table>
-  <tr>
-    <th id="demo">Progress Milestones [30%]</th>
-  </tr>
-  <tr>
-    <ul>
-      <td>
-        <li style="text-decoration: line-through;">Introduction</li>
-        <li style="text-decoration: line-through;">Setting up React Native Expo</li>
-        <li style="text-decoration: line-through;">Auth System With Firebase and React Native</li>
-        <li>Save Data Using Firebase And Redux</li>
-        <li>Handling Navigation on React Native</li>
-        <li>Using Camera And Image Gallery With React Native</li>
-        <li>Saving An Image Post Using Firebase Firestore and Firebase storage</li>
-        <li>Displaying User Profile With Firebase Firestore</li>
-        <li>Search User By Similar Name with Firebase Firestore</li>
-        <li>Follow System Using Firestore And React Native</li>
-        <li>Post Feed System With Firebase and React Native</li>
-        <li>Logout Firebase Auth And Redux React Native</li>
-        <li>Adding User Comments To Posts W/ Firebase Firestore</li>
-        <li>Like System Using Firestore</li>
-      <li>Redesign Release</li>
-      </td>
-    </ul>
-  </tr>
-</table>
+  <h3>Progress Milestones [30%]</h3>
+  <ul>
+    <td>        <li style="text-decoration: line-through;">[Complete] Introduction</li>
+      <li style="text-decoration: line-through;">[Complete] Setting up React Native Expo</li>
+      <li style="text-decoration: line-through;">[Complete] Auth System With Firebase and React Native</li>
+      <li>Save Data Using Firebase And Redux</li>
+      <li>Handling Navigation on React Native</li>
+      <li>Using Camera And Image Gallery With React Native</li>
+      <li>Saving An Image Post Using Firebase Firestore and Firebase storage</li>
+      <li>Displaying User Profile With Firebase Firestore</li>
+      <li>Search User By Similar Name with Firebase Firestore</li>
+      <li>Follow System Using Firestore And React Native</li>
+      <li>Post Feed System With Firebase and React Native</li>
+      <li>Logout Firebase Auth And Redux React Native</li>
+      <li>Adding User Comments To Posts W/ Firebase Firestore</li>
+      <li>Like System Using Firestore</li>
+    <li>Redesign Release</li>
+  </ul>
 
 </body>
 </html>
