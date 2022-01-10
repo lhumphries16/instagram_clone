@@ -4,7 +4,7 @@ Full-stack clone of Instagram's native application using React Native, Redux, Fi
 
 Inspiration
 <a href="https://www.youtube.com/watch?v=1hPgQWbWmEk&t=3843s&ab_channel=freeCodeCamp.org">Link</app>
-
+<!--
 Progess Milestones [In-Progress]
   (0:00:00) Introduction
   (0:02:28) Setting up React Native Expo
@@ -21,15 +21,32 @@ Progess Milestones [In-Progress]
   (4:35:24) Adding User Comments To Posts W/ Firebase Firestore
   (5:14:00) Like System Using Firestore
   (5:47:25) Redesign Release
-    
+-->
 <table>
   <tr>
-    <th id="demo">Progress Milestones</th>
-    <th>document.getElementById('demo').innerHTML = Date()</th>
+    <th id="demo">Progress Milestones [30%]</th>
+    <th></th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <ul>
+      <td>
+        <li>Introduction</li>
+        <li>Setting up React Native Expo</li>
+        <li>Auth System With Firebase and React Native</li>
+        <li>Save Data Using Firebase And Redux</li>
+        <li>Handling Navigation on React Native</li>
+        <li>Using Camera And Image Gallery With React Native</li>
+        <li>Saving An Image Post Using Firebase Firestore and Firebase storage</li>
+        <li>Displaying User Profile With Firebase Firestore</li>
+        <li>Search User By Similar Name with Firebase Firestore</li>
+        <li>Follow System Using Firestore And React Native</li>
+        <li>Post Feed System With Firebase and React Native</li>
+        <li>Logout Firebase Auth And Redux React Native</li>
+        <li>Adding User Comments To Posts W/ Firebase Firestore</li>
+        <li>Like System Using Firestore</li>
+      <li>Redesign Release</li>
+      </td>
+    </ul>
   </tr>
 </table>
 
