@@ -23,9 +23,9 @@ Progess Milestones [In-Progress]
   (5:14:00) Like System Using Firestore
   (5:47:25) Redesign Release
 -->
-  <h3>Progress Milestones [30%]</h3>
+  <h3>Progress Milestones [21% Completed]</h3>
   <ul>
-    <td>        <li style="text-decoration: line-through;">[Complete] Introduction</li>
+      <li style="text-decoration: line-through;">[Complete] Introduction</li>
       <li style="text-decoration: line-through;">[Complete] Setting up React Native Expo</li>
       <li style="text-decoration: line-through;">[Complete] Auth System With Firebase and React Native</li>
       <li>Save Data Using Firebase And Redux</li>
@@ -39,7 +39,7 @@ Progess Milestones [In-Progress]
       <li>Logout Firebase Auth And Redux React Native</li>
       <li>Adding User Comments To Posts W/ Firebase Firestore</li>
       <li>Like System Using Firestore</li>
-    <li>Redesign Release</li>
+      <li>Redesign Release</li>
   </ul>
 
 </body>
