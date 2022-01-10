@@ -23,7 +23,7 @@ Progess Milestones [In-Progress]
   (5:14:00) Like System Using Firestore
   (5:47:25) Redesign Release
 -->
-  <h3>Progress Milestones [21% Completed]</h3>
+  <h3>Progress Milestones [20% Completed]</h3>
   <ul>
       <li style="text-decoration: line-through;">[Complete] Introduction</li>
       <li style="text-decoration: line-through;">[Complete] Setting up React Native Expo</li>
