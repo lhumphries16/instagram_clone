@@ -24,15 +24,15 @@ Progess Milestones [In-Progress]
 -->
 <table>
   <tr>
-    <th id="demo">Progress Milestones </th>
-    <th>[30%]</th>
+    <th id="demo">Progress Milestones [30%]</th>
+    <th></th>
   </tr>
   <tr>
     <ul>
       <td>
-        <li>Introduction</li>
-        <li>Setting up React Native Expo</li>
-        <li>Auth System With Firebase and React Native</li>
+        <li style="text-decoration: line-through;">Introduction</li>
+        <li style="text-decoration: line-through;">Setting up React Native Expo</li>
+        <li style="text-decoration: line-through;">Auth System With Firebase and React Native</li>
         <li>Save Data Using Firebase And Redux</li>
         <li>Handling Navigation on React Native</li>
         <li>Using Camera And Image Gallery With React Native</li>
