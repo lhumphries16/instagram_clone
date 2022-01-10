@@ -25,7 +25,6 @@ Progess Milestones [In-Progress]
 <table>
   <tr>
     <th id="demo">Progress Milestones [30%]</th>
-    <th></th>
   </tr>
   <tr>
     <ul>
