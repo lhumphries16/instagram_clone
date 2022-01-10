@@ -24,8 +24,8 @@ Progess Milestones [In-Progress]
 -->
 <table>
   <tr>
-    <th id="demo">Progress Milestones [30%]</th>
-    <th></th>
+    <th id="demo">Progress Milestones </th>
+    <th>[30%]</th>
   </tr>
   <tr>
     <ul>
