@@ -5,15 +5,7 @@ import { View, Text } from 'react-native'
 import firebase from 'firebase/compat/app'
 
 //TODO before production use environment variables in order to hide api keys
-const firebaseConfig = {
-  apiKey: "AIzaSyAscVzVUGhcMBZY3vhfDQIRN9yX7oI8TkQ",
-  authDomain: "instagram-dev-7ba53.firebaseapp.com",
-  projectId: "instagram-dev-7ba53",
-  storageBucket: "instagram-dev-7ba53.appspot.com",
-  messagingSenderId: "605251745035",
-  appId: "1:605251745035:web:dccbeb7c9671144e349e0e",
-  measurementId: "G-9KT8Z7B0JL"
-};
+
 
 if(firebase.apps.length === 0){
 //TODO change this to firebase V9
