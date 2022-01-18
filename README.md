@@ -1,7 +1,7 @@
 # Instagram-Clone
 
 <h3>Objective:</h3>
-<div>Full-stack clone of Instagram's native application using React Native, Redux, Firebase Authentication, and Firestore, and Expo.</div>
+<div>Full-stack clone of Instagram's native application using React Native, Redux, Firebase Authentication, and Firestore, and Expo. Original project used Firebase V8 but I am using the new and more efficient modular Web SDK. It's a bit of a hurdle but it helps engage me to learn the SDK that much better.</div>
 
 <h3>Inspiration:</h3>
 <a href="https://www.youtube.com/watch?v=1hPgQWbWmEk&t=3843s&ab_channel=freeCodeCamp.org">freecodecamp.org</a>
